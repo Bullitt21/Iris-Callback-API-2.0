@@ -1,0 +1,7 @@
+echo "# Iris-Callback-API-2.0" >> README.md 
+git init 
+git add README.md 
+git commit -m "первый коммит" 
+git branch -M master 
+git remote add origin https://github.com/Bullitt21/Iris-Callback-API-2.0.git
+ git push -u origin maste
